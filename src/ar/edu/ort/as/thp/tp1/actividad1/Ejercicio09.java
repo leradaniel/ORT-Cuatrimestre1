@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Ejercicio09 {
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		final Scanner input = new Scanner(System.in);
 		System.out.println("Ingresando dos ángulos interiores de un triángulo se calculará el tercero.");
 		System.out.println("Ingrese un ángulo: ");
 		double angulo1 = input.nextDouble();
