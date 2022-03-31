@@ -1,8 +1,9 @@
 /*
+ * Actividad Nº 2: Tipos de datos lógicos y flujo de selección
  * 11.Realizá un programa que permita ingresar un número entero e indique si se trata de un
 número par o impar.
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@ mostrarse por pantalla el nombre del día de la semana que representa tal número 
 como el primer día de la semana el Domingo. De ingresar un número fuera de rango debe
 mostrar error.
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

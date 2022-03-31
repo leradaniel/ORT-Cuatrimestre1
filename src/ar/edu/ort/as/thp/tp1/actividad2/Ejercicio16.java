@@ -3,7 +3,7 @@
 cantidad de asientos disponibles en el auditorio. Debes indicar si alcanzan los asientos, Si los
 asientos no alcanzaran indicar cuántos faltan para que todos los inscriptos puedan sentarse.
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

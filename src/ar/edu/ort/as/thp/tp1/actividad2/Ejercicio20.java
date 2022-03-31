@@ -3,7 +3,7 @@
 ('+', '-', '*', '/'). Debe mostrarse el resultado para la operación ingresada. Considerar
 que no se puede dividir por cero (en ese caso mostrar el texto 'ERROR').
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

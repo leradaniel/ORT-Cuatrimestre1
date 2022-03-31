@@ -9,7 +9,7 @@ el valor número ingresado pertenece o no a cada conjunto. Definí un lote de prue
 números y probá el algoritmo, escribiendo los resultados tal como se hizo en los ejercicios
 anteriores.
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

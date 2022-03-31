@@ -5,7 +5,7 @@ de rango o género inválido), informar tal situación. Si los datos están bien ing
 programa debe indicar, sabiendo que las mujeres se jubilan con 60 años o más y los hombres
 con 65 años o más, si la persona está en edad de jubilarse.
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
  * 13.Realizá un programa para ingresar tres números enteros e indique cuál de ellos es el mayor y
 su valor
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 

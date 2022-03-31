@@ -10,7 +10,7 @@ Luis	8		1.51
 Ana		9		1.39
 
  */
-package ar.edu.ort.as.thp.tp1.actividad1;
+package ar.edu.ort.as.thp.tp1.actividad2;
 
 import java.util.Scanner;
 
